@@ -1,0 +1,195 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Guia",
+      "title": "E possivel aposentadoria por idade com pouca contribuicao ao INSS?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2Fe%20possivel%20aposentadoria%20por%20idade%20com%20pouca%20contribuicao%20ao%20INSS.html?alt=media&token=196d29f8-109c-4413-beb3-117ba3ba3af9",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Guia",
+      "title": "INSS : Saiba como verificar se o agendamento da sua pericia medica foi antecipado",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FINSS%20%20Saiba%20como%20verificar%20se%20o%20agendamento%20da%20sua%20pericia%20medica%20foi%20antecipado.html?alt=media&token=11bce56e-41f2-4fa3-97b8-cec4a957dea7",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Guia",
+      "title": "INSS esta ligando para segurados para antecipar pericia : entenda",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FINSS%20esta%20ligando%20para%20segurados%20para%20antecipar%20pericia%20%20entenda.html?alt=media&token=d5e22bd8-a6d3-4904-8476-3220506dd65f",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Guia",
+      "title": "Aposentado do INSS, voce pode ganhar mais! Saiba como pedir revisao do beneficio",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FAposentado%20do%20INSS%2C%20voce%20pode%20ganhar%20mais!%20Saiba%20como%20pedir%20revisao%20do%20beneficio.html?alt=media&token=8c3ce877-3683-480a-abaa-71d408b223cb",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Guia",
+      "title": "Sofreu um acidente? Saiba agora se voce tem direito a receber auxilio do INSS",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FSofreu%20um%20acidente%20Saiba%20agora%20se%20voce%20tem%20direito%20a%20receber%20auxilio%20do%20INSS.html?alt=media&token=c02360b6-d819-4e7f-9083-4b9b1e09a2aa",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Guia",
+      "title": "Operacao mira esquema de fraude de RS 1,6 milhão no INSS em Minas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FOperacao%20mira%20esquema%20de%20fraude%20de%20RS%201%2C6%20milh%C3%A3o%20no%20INSS%20em%20Minas.html?alt=media&token=a8fa8c7f-5cee-4ed0-9cfa-db95ac29ef5b",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Guia",
+      "title": "INSS : projeto propoe reajuste extra a aposentados",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FINSS%20%20projeto%20propoe%20reajuste%20extra%20a%20aposentados.html?alt=media&token=30ac5f55-c07d-4b30-9e80-c6207b36b910",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Guia",
+      "title": "Apos mudancas, veja quais servicos do INSS sao prestados nas agencias",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FApos%20mudancas%2C%20veja%20quais%20servicos%20do%20INSS%20sao%20prestados%20nas%20agencias.html?alt=media&token=93cd111f-005d-4825-9007-6ae94712daec",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Guia",
+      "title": "Liberacao de beneficios  do INSS pode ser feita com atestado",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FLiberacao%20de%20beneficios%20%20do%20INSS%20pode%20ser%20feita%20com%20atestado.html?alt=media&token=6eeb2527-d05c-4327-8b3f-91648362514e",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Guia",
+      "title": "INSS leva atendimento para comunidades tradicionais do Mato Grosso e Mato Grosso do Sul",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FIcon.png?alt=media&token=d6c4b363-2e41-4140-9212-733676fdec65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/INSSgombeecol9%2FINSS%20leva%20atendimento%20para%20comunidades%20tradicionais%20do%20Mato%20Grosso%20e%20Mato%20Grosso%20do%20Sul.html?alt=media&token=3373b6e3-2ef9-4423-a17b-1d348cd8c710",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
